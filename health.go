@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	contentType     = "Content-Type"
+	contentType     = "Content-TypeTTT"
 	contentTypeJSON = "application/health+json"
 	svcStatus       = "pass"
 	description     = " service"
